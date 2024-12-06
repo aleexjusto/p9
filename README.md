@@ -146,7 +146,7 @@ include "/etc/bind/named.conf.options";
 include "/etc/bind/named.conf.local";
 ```
 
-Ademáis teño outro documento chamado **named.conf.default-zones onde teño definido as zoas inversas.
+Ademáis teño outro documento chamado **named.conf.default-zones** onde teño definido as zoas inversas.
 
 ```
 // prime the server with knowledge of the root servers
